@@ -1,3 +1,3 @@
 # flutter_samples
 
-A new Flutter project.
+my experiments with flutter and other templates
